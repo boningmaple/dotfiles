@@ -1,0 +1,13 @@
+macos-window-buttons = hidden
+macos-titlebar-style = tabs
+window-colorspace = display-p3
+window-padding-x = 0
+window-padding-y = 0
+window-padding-balance = true
+font-size = 18
+adjust-cell-width = 3%
+adjust-cell-height = 9%
+mouse-hide-while-typing = true
+cursor-style = block
+shell-integration-features = no-cursor
+theme = light:mac-clear-light,dark:mac-clear-dark
