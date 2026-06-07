@@ -37,6 +37,10 @@
       "rev": "221ce6b2d999187044529f49da6554a92f740a96",
       "src": "https://github.com/nvim-lualine/lualine.nvim"
     },
+    "mac-clear": {
+      "rev": "1f87d977f44fb8a0433048044d8bbc9304262183",
+      "src": "https://github.com/boningmaple/mac-clear"
+    },
     "mason-lspconfig.nvim": {
       "rev": "0a695750d747db1e7e70bcf0267ef8951c95fc83",
       "src": "https://github.com/mason-org/mason-lspconfig.nvim"
