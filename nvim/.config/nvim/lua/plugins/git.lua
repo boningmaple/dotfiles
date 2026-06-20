@@ -1,4 +1,5 @@
 vim.pack.add({ "https://github.com/lewis6991/gitsigns.nvim" })
+vim.pack.add({ "https://github.com/sindrets/diffview.nvim" })
 vim.pack.add({ "https://github.com/neogitorg/neogit" })
 -- vim.pack.add({ "https://github.com/esmuellert/codediff.nvim" })
 

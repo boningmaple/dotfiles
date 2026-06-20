@@ -54,8 +54,8 @@ nmap("<Leader>wT", "<C-w>T", "To tab")
 -- ====================================
 -- LSP
 -- ====================================
-nmap("grd", vim.lsp.buf.definition, "vim.lsp.buf.definition()")
-nmap("grf", vim.lsp.buf.format, "vim.lsp.buf.format()")
+nmap("grd", ":lua vim.lsp.buf.definition()<CR>", "vim.lsp.buf.definition()")
+nmap("grf", ":lua vim.lsp.buf.format()<CR>", "vim.lsp.buf.format()")
 
 -- ====================================
 -- Search (FzfLua)
