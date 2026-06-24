@@ -4,6 +4,7 @@ require("nvim-treesitter").setup()
 require("nvim-treesitter").install({
     "bash",
     "c_sharp",
+    "comment",
     "cpp",
     "css",
     "git_config",
