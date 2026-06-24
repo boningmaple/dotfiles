@@ -21,8 +21,8 @@ require("mason-tool-installer").setup({
         "shellcheck",
         "shfmt",
         "tailwindcss",
+        "tsgo",
         "ty",
-        "vtsls",
         "zls",
     }
 })
