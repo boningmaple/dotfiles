@@ -21,7 +21,7 @@ setopt INTERACTIVE_COMMENTS       # Allow comments in interactive shell
 #------------------------------------------------------
 alias l='ls -AFGlh'
 alias la='ls -AFG'
-alias zig-beta='/Users/maple/projects/zig/build/stage3/bin/zig'
+alias zig-beta='/Users/maple/projects/zig/build-release/stage3/bin/zig'
 
 # use nvim if available
 if [ -x "$(command -v nvim)" ]; then
